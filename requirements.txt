@@ -1,0 +1,13 @@
+accelerate
+datasets
+evaluate
+fuzzywuzzy
+jieba
+numpy
+rouge
+rouge-score
+sentencepiece
+torch
+tqdm
+transformers
+wandb
